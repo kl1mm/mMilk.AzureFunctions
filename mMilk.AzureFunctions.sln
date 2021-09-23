@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mMilk.RandomWordFunctionApp", "mMilk.RandomWordFunction\mMilk.RandomWordFunctionApp.csproj", "{C8EB445E-E77E-4C21-941F-5E77A0E6CB92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8EB445E-E77E-4C21-941F-5E77A0E6CB92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8EB445E-E77E-4C21-941F-5E77A0E6CB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8EB445E-E77E-4C21-941F-5E77A0E6CB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8EB445E-E77E-4C21-941F-5E77A0E6CB92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F1F173-49D6-493A-842E-F555072F9BD5}
+	EndGlobalSection
+EndGlobal
